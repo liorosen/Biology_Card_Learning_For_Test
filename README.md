@@ -1,4 +1,4 @@
-Biology Flashcard App
+#Biology Flashcard App
 Overview
 This application is an interactive and dynamic flashcard system designed for biology enthusiasts and students. Leveraging the power of Python, Tkinter, and pandas, the app provides a robust GUI to facilitate learning through randomized term selection, efficient data handling, and progress tracking. It employs object-oriented principles and event-driven programming to deliver a user-friendly and engaging learning experience.
 
